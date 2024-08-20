@@ -1,6 +1,6 @@
 # GolangCodeGenerator
 
-This is the public issue tracker for Golang Code Generator, a product made by KodeFabricator Software Inc.
+This is the public issue tracker for Golang Code Generator, a product by KodeFabricator Software Inc.
 
 Please report any issues you encounter with the Golang Code Generator here.
 
@@ -14,7 +14,7 @@ The Golang Code Generator accepts a YAML manifest defining your project, and out
 
 ## How can I get started?
 
-- [KodeFabricator Software Inc. Home Page](https://www.kodefabricator.com)
+- [KodeFabricator Home Page](https://www.kodefabricator.com)
 - [Golang Code Generator Documentation](https://docs.kodefabricator.com)
 
 <div align="center">
