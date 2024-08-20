@@ -16,3 +16,9 @@ The Golang Code Generator accepts a YAML manifest defining your project, and out
 
 - [KodeFabricator Software Inc. Home Page](https://www.kodefabricator.com)
 - [Golang Code Generator Documentation](https://docs.kodefabricator.com)
+
+<div align="center">
+<a href="https://www.kodefabricator.com">
+    <img src="assets/logo_with_padding.png" alt="KodeFabricator Software Inc." width="300" height="auto">
+</a>
+</div>
